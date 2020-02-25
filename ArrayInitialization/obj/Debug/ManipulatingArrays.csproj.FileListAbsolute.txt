@@ -1,0 +1,6 @@
+C:\Users\imodc\OneDrive\Desktop\Microsoft Software and Systems Academy\ISTA 220\Exercises\EX 6A\ArrayInitialization\bin\Debug\ArrayInitialization.exe.config
+C:\Users\imodc\OneDrive\Desktop\Microsoft Software and Systems Academy\ISTA 220\Exercises\EX 6A\ArrayInitialization\bin\Debug\ArrayInitialization.exe
+C:\Users\imodc\OneDrive\Desktop\Microsoft Software and Systems Academy\ISTA 220\Exercises\EX 6A\ArrayInitialization\bin\Debug\ArrayInitialization.pdb
+C:\Users\imodc\OneDrive\Desktop\Microsoft Software and Systems Academy\ISTA 220\Exercises\EX 6A\ArrayInitialization\obj\Debug\ArrayInitialization.exe
+C:\Users\imodc\OneDrive\Desktop\Microsoft Software and Systems Academy\ISTA 220\Exercises\EX 6A\ArrayInitialization\obj\Debug\ArrayInitialization.pdb
+C:\Users\imodc\OneDrive\Desktop\Microsoft Software and Systems Academy\ISTA 220\Exercises\EX 6A\ArrayInitialization\obj\Debug\ManipulatingArrays.csprojAssemblyReference.cache
